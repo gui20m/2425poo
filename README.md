@@ -1,8 +1,10 @@
-# GrupoTP-31
 
----
-## Project
-A management music app made for OOP Class.
+# Project
+A music management app created for an OOP (Object-Oriented Programming) class.
+
+The app includes user and artist views, as well as an admin panel that provides the ability to manage the content available on the platform.
+
+This project was successfully completed by implementing key OOP concepts such as polymorphism, inheritance, and encapsulation.
 
 ---
 
