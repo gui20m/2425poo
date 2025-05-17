@@ -1,5 +1,6 @@
+# 2425oop
 
-# Project
+## Description
 A music management app created for an OOP (Object-Oriented Programming) class.
 
 The app includes user and artist views, as well as an admin panel that provides the ability to manage the content available on the platform.
