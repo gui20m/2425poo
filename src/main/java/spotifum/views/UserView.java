@@ -44,7 +44,7 @@ public class UserView extends SpotifUMView {
 
     private void doSignUp(){
         try {
-            this.db.createUser();
+            createUser(null);
         } catch (Exception e){
             System.out.println("[app-log] could not create user!");
         }
